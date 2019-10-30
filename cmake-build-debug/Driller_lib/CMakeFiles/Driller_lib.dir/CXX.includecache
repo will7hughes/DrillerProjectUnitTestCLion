@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Dino/Documents/OU/Data Structures CS 2413/DrillerProject/Driller_lib/DrillingRecord.cpp
+DrillingRecord.h
+/Users/Dino/Documents/OU/Data Structures CS 2413/DrillerProject/Driller_lib/DrillingRecord.h
+Exceptions.h
+/Users/Dino/Documents/OU/Data Structures CS 2413/DrillerProject/Driller_lib/Exceptions.h
+iomanip
+-
+
+/Users/Dino/Documents/OU/Data Structures CS 2413/DrillerProject/Driller_lib/DrillingRecord.h
+iostream
+-
+Exceptions.h
+/Users/Dino/Documents/OU/Data Structures CS 2413/DrillerProject/Driller_lib/Exceptions.h
+
+/Users/Dino/Documents/OU/Data Structures CS 2413/DrillerProject/Driller_lib/Exceptions.h
+

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Dino/Documents/OU/Data Structures CS 2413/DateConverter_withTests/Driller/DrillingRecord.cpp
+DrillingRecord.h
+/Users/Dino/Documents/OU/Data Structures CS 2413/DateConverter_withTests/Driller/DrillingRecord.h
+Exceptions.h
+/Users/Dino/Documents/OU/Data Structures CS 2413/DateConverter_withTests/Driller/Exceptions.h
+iomanip
+-
+
+/Users/Dino/Documents/OU/Data Structures CS 2413/DateConverter_withTests/Driller/DrillingRecord.h
+iostream
+-
+Exceptions.h
+/Users/Dino/Documents/OU/Data Structures CS 2413/DateConverter_withTests/Driller/Exceptions.h
+
+/Users/Dino/Documents/OU/Data Structures CS 2413/DateConverter_withTests/Driller/Exceptions.h
+
+/Users/Dino/Documents/OU/Data Structures CS 2413/DateConverter_withTests/Driller/Gregorian.cpp
+Gregorian.h
+/Users/Dino/Documents/OU/Data Structures CS 2413/DateConverter_withTests/Driller/Gregorian.h
+
+/Users/Dino/Documents/OU/Data Structures CS 2413/DateConverter_withTests/Driller/Gregorian.h
+
+/Users/Dino/Documents/OU/Data Structures CS 2413/DateConverter_withTests/Driller/Julian.cpp
+Julian.h
+/Users/Dino/Documents/OU/Data Structures CS 2413/DateConverter_withTests/Driller/Julian.h
+
+/Users/Dino/Documents/OU/Data Structures CS 2413/DateConverter_withTests/Driller/Julian.h
+
